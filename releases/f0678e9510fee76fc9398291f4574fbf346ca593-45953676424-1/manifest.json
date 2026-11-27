@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1",
+  "app": "test123",
+  "global": "__sveltekit_1ephdoc",
+  "start": "_app/immutable/entry/start.DPfGRgWA.js",
+  "appEntry": "_app/immutable/entry/app.ul7UN9G6.js",
+  "styles": [
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/assets/0.DhiSY61-.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/entry/start.DPfGRgWA.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/D-2M9NIA.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/DnJV6eje.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/entry/app.ul7UN9G6.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/DlcQv9rr.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/NBvlK8W5.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/D5PTe1jb.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/BM_awGhB.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/BT-n1Tp7.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/nodes/0.3mLiUJnr.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/D1CNBbKL.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/DFZzu6br.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/DDmToih-.js",
+    "https://yissok.github.io/test123-dist/releases/f0678e9510fee76fc9398291f4574fbf346ca593-45953676424-1/_app/immutable/chunks/SFR4V-Wv.js"
+  ],
+  "social": {
+    "title": "Test123",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+}
